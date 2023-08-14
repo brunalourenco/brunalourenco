@@ -2,7 +2,7 @@
  # Olá, sou a Bruna  👋 
  
 - 👀 Tenho interesse em Análise de Dados
-- 🌱 Atualmente estou aprendendo SQL para Ciência de Dados
+- 🌱 Atualmente estou aprendendo Microsoft Power BI
 - 💻 Graduação em Sistemas de Informação
 - 💞️ Meta: Analista de Dados
 
