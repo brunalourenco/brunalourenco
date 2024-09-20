@@ -2,7 +2,7 @@
  # Olá, sou a Bruna  👋 
  
 - 👀 Tenho interesse em Análise de Dados
-- 🌱 Atualmente estou aprendendo Linguagem R
+- 🌱 Atualmente estou aprendendo Linguagem Python
 - 💻 Graduação em Sistemas de Informação
 - 💞️ Meta: Analista de Dados
 
