@@ -1,7 +1,7 @@
 
  # Olá, sou a Bruna  👋 
  
-- 👀 Tenho interesse em Desenvolvimento Front End e testes de software
+- 👀 Tenho interesse em Desenvolvimento Front End e Testes de software
 - 🌱 Atualmente estou aprendendo Linguagem Python
 - 💻 Graduação em Sistemas de Informação
 - 💞️ Meta: Desenvolvedora Front End | Analista de Testes/QA
