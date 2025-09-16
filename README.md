@@ -4,7 +4,7 @@
 - 👀 Tenho interesse em Desenvolvimento Front End e Testes de software
 - 🌱 Atualmente estou aprendendo Linguagem Python
 - 💻 Graduação em Sistemas de Informação
-- 💞️ Meta: Desenvolvedora Front End | Analista de Testes/QA
+- 💞️ Meta: Desenvolvedora Full Stack | Analista de Testes/QA
 
 ##
 
