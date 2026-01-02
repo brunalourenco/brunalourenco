@@ -2,9 +2,9 @@
  # Olá, sou a Bruna  👋 
  
 - 👀 Tenho interesse em Desenvolvimento Front End e Testes de software
-- 🌱 Atualmente estou aprendendo Linguagem HTML/CSS
+- 🌱 Atualmente estou aprendendo JavaScript
 - 💻 Graduação em Sistemas de Informação
-- 💞️ Meta: Desenvolvedora Full Stack | Analista de Testes/QA
+- 💞️ Meta: Desenvolvedora Front End | Analista de Testes/QA
 
 ##
 
