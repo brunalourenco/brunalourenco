@@ -1,10 +1,10 @@
 
  # Olá, sou a Bruna  👋 
  
-- 👀 Tenho interesse em Qualidade de software e Desenvolvimento Front End.
-- 🌱 Atualmente estou aprendendo JavaScript
+- 👀 Tenho interesse em Qualidade de software
+- 🌱 Atualmente estou aprendendo sobre QA
 - 💻 Graduação em Sistemas de Informação
-- 💞️ Meta:  Analista de Testes/QA | Desenvolvedora Front End 
+- 💞️ Meta: QA Engineer 
 
 ##
 
