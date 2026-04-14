@@ -1,10 +1,12 @@
 
  # Olá, sou a Bruna  👋 
  
-- 👀 Tenho interesse em Qualidade de software
-- 🌱 Atualmente estou aprendendo sobre QA
-- 💻 Graduação em Sistemas de Informação
-- 💞️ Meta: QA Engineer 
+👀 Tenho interesse em Qualidade de software <br>
+🌱 Atualmente estou aprendendo sobre QA<br>
+💻 Graduação em Sistemas de Informação <br>
+🎯  Meta: QA Engineer <br>
+
+ 
 
 ##
 
